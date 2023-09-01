@@ -1,0 +1,24 @@
+.home-main-container {
+  height: 100vh;
+  width: 100vw;
+  background-color: #183b56;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+}
+.home-content {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.heading {
+  color: aliceblue;
+  margin-bottom: 20px;
+}
+.digital-card {
+  width: 600px;
+}
